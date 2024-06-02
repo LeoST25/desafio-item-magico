@@ -1,0 +1,14 @@
+E:\desafio-item-magico\bin\Debug\net8.0\desafio-item-magico.exe
+E:\desafio-item-magico\bin\Debug\net8.0\desafio-item-magico.deps.json
+E:\desafio-item-magico\bin\Debug\net8.0\desafio-item-magico.runtimeconfig.json
+E:\desafio-item-magico\bin\Debug\net8.0\desafio-item-magico.dll
+E:\desafio-item-magico\bin\Debug\net8.0\desafio-item-magico.pdb
+E:\desafio-item-magico\obj\Debug\net8.0\desafio-item-magico.GeneratedMSBuildEditorConfig.editorconfig
+E:\desafio-item-magico\obj\Debug\net8.0\desafio-item-magico.AssemblyInfoInputs.cache
+E:\desafio-item-magico\obj\Debug\net8.0\desafio-item-magico.AssemblyInfo.cs
+E:\desafio-item-magico\obj\Debug\net8.0\desafio-item-magico.csproj.CoreCompileInputs.cache
+E:\desafio-item-magico\obj\Debug\net8.0\desafio-item-magico.dll
+E:\desafio-item-magico\obj\Debug\net8.0\refint\desafio-item-magico.dll
+E:\desafio-item-magico\obj\Debug\net8.0\desafio-item-magico.pdb
+E:\desafio-item-magico\obj\Debug\net8.0\desafio-item-magico.genruntimeconfig.cache
+E:\desafio-item-magico\obj\Debug\net8.0\ref\desafio-item-magico.dll
